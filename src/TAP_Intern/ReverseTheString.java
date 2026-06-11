@@ -2,7 +2,7 @@ package TAP_Intern;
 
 import java.util.Scanner;
 
-public class RverseTheString {
+public class ReverseTheString {
 	public static void main(String[] args) {
 		Scanner sc=new  Scanner (System.in);
 		String s= sc.nextLine();
